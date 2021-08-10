@@ -1,0 +1,6 @@
+{
+    "telegramToken": "<your-token>",
+    "awsAccessKey": "<your-token>",
+    "awsSecretKey": "<your-token>",
+    "botId": 123456789
+}

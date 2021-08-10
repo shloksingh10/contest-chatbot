@@ -1,0 +1,6 @@
+module.exports.telegramService = require('./telegram.service')
+module.exports.leetcodeService = require('./leetcode.service')
+module.exports.codeforcesService = require('./codeforces.service')
+module.exports.codechefService = require('./codechef.service')
+module.exports.reminderService = require('./reminder.service')
+// module.exports.dialogflowService = require('./dialogflow.service')

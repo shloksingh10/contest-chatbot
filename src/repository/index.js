@@ -1,0 +1,1 @@
+module.exports.telegramDynamoRepository = require('./telegramDynamo.repository')

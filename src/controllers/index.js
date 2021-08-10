@@ -1,0 +1,1 @@
+module.exports.telegramController = require('./telegram.controllers')
